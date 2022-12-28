@@ -18,11 +18,11 @@
 
 ## 🏭 Bełchatów County - Example Location
 
-* [Bełchatów](belchatow-county-example-location/belchatow/README.md)
-  * [The Milk Bar „Społem”](belchatow-county-example-location/belchatow/the-milk-bar-spolem.md)
-  * [The Power Plant - Elektrownia Bełchatów](belchatow-county-example-location/belchatow/the-power-plant-elektrownia-belchatow.md)
-  * [The Coal Mine - Kopalnia Węgla Brunatnego „Bełchatów”](belchatow-county-example-location/belchatow/the-coal-mine-kopalnia-wegla-brunatnego-belchatow.md)
-  * [The Post Office - Urzęd Poczty Polskiej](belchatow-county-example-location/belchatow/the-post-office-urzed-poczty-polskiej.md)
+* [Bełchatów](belchatow-example-location/belchatow/README.md)
+  * [The Milk Bar „Społem”](belchatow-example-location/belchatow/the-milk-bar-spolem.md)
+  * [The Power Plant - Elektrownia Bełchatów](belchatow-example-location/belchatow/the-power-plant-elektrownia-belchatow.md)
+  * [The Coal Mine - Kopalnia Węgla Brunatnego „Bełchatów”](belchatow-example-location/belchatow/the-coal-mine-kopalnia-wegla-brunatnego-belchatow.md)
+  * [The Post Office - Urzęd Poczty Polskiej](belchatow-example-location/belchatow/the-post-office-urzed-poczty-polskiej.md)
 
 ## Reference
 
