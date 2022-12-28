@@ -21,6 +21,4 @@ Inspirations include:
 * Seksmisja
 * Karl Marx's Communist Manifesto
 * Tom Clancy's The Division (don't ask)
-* Control
-* The Vast in the Dark
 
