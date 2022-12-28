@@ -1,6 +1,8 @@
 # Table of contents
 
 * [What is this?](README.md)
+* [Progress Bar](progress-bar.md)
+* [Changelog](changelog.md)
 
 ## 👤 Creating your Communard
 
@@ -14,13 +16,13 @@
 * [Names](creating-your-milk-bar/names.md)
 * [Upgrading Your Milk Bar](creating-your-milk-bar/upgrading-your-milk-bar.md)
 
-## 🏭 Bełchatów - Example Location
+## 🏭 Bełchatów County - Example Location
 
-* [Bełchatów](belchatow-example-location/belchatow/README.md)
-  * [The Milk Bar „Społem”](belchatow-example-location/belchatow/the-milk-bar-spolem.md)
-  * [The Power Plant - Elektrownia Bełchatów](belchatow-example-location/belchatow/the-power-plant-elektrownia-belchatow.md)
-  * [The Coal Mine - Kopalnia Węgla Brunatnego „Bełchatów”](belchatow-example-location/belchatow/the-coal-mine-kopalnia-wegla-brunatnego-belchatow.md)
-  * [The Post Office - Urzęd Poczty Polskiej](belchatow-example-location/belchatow/the-post-office-urzed-poczty-polskiej.md)
+* [Bełchatów](belchatow-county-example-location/belchatow/README.md)
+  * [The Milk Bar „Społem”](belchatow-county-example-location/belchatow/the-milk-bar-spolem.md)
+  * [The Power Plant - Elektrownia Bełchatów](belchatow-county-example-location/belchatow/the-power-plant-elektrownia-belchatow.md)
+  * [The Coal Mine - Kopalnia Węgla Brunatnego „Bełchatów”](belchatow-county-example-location/belchatow/the-coal-mine-kopalnia-wegla-brunatnego-belchatow.md)
+  * [The Post Office - Urzęd Poczty Polskiej](belchatow-county-example-location/belchatow/the-post-office-urzed-poczty-polskiej.md)
 
 ## Reference
 
@@ -29,4 +31,14 @@
 * [Starting Weapons](reference/starting-weapons.md)
 * [Weapons](reference/weapons.md)
 * [Armour](reference/armour.md)
+* [Items](reference/items.md)
 * [Overland Travel](reference/overland-travel.md)
+* [Grayspace](reference/grayspace.md)
+* [Superstructure Exploration](reference/superstructure-exploration.md)
+
+## Worldbuilding Tools
+
+* [Superstructures](worldbuilding-tools/superstructures.md)
+* [Names](worldbuilding-tools/names/README.md)
+  * [Communards](worldbuilding-tools/names/communards.md)
+  * [Milk Bars](worldbuilding-tools/names/milk-bars.md)
